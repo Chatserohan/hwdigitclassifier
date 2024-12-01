@@ -1,6 +1,5 @@
-Here's a `README.md` file for your project:
 
-```markdown
+
 # Digit Classifier using Convolutional Neural Network (CNN)
 
 This project implements a digit classification system using a neural network trained on the MNIST dataset. The model classifies handwritten digits in real-time using a webcam. The system captures frames, processes them to detect and classify digits, and displays the predictions on the screen.
@@ -27,7 +26,7 @@ You can install these dependencies using the following commands:
 
 ```bash
 pip install tensorflow opencv-python numpy matplotlib seaborn
-```
+
 
 ## How It Works
 
