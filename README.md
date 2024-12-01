@@ -24,7 +24,6 @@ To run this project, you need to install the following dependencies:
 
 You can install these dependencies using the following commands:
 
-```bash
 pip install tensorflow opencv-python numpy matplotlib seaborn
 
 
